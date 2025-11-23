@@ -1,0 +1,3 @@
+[submodule "wimlib"]
+	path = wimlib
+	url = https://gh.xx9527.cn/https://github.com/chris1111/Wimlib-Imagex-Package.git
